@@ -4,7 +4,7 @@ A load balancer is a component that, once invoked, it distributes incoming reque
 
 ### Build and run :
 ````
-cd loadBalancerCore/
+cd LoadBalancer/
 mvn clean package
 cd /target
 java -jar load-balancer-core-1.0.0.jar
